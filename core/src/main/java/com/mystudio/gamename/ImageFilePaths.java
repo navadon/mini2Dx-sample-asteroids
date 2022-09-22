@@ -16,11 +16,11 @@
 package com.mystudio.gamename;
 
 public class ImageFilePaths {
-    public static final String BACKGROUND = "Images/Backgrounds/black.png";
-    public static final String PLAYER_ONE_SPRITE = "Images/Sprites/Player/playerShip3_red.png";
-    public static final String LASER_BLUE = "Images/Sprites/Lasers/laserBlue01.png";
+    public static final String BACKGROUND = "assets/Images/Backgrounds/black.png";
+    public static final String PLAYER_ONE_SPRITE = "assets/Images/Sprites/Player/playerShip3_red.png";
+    public static final String LASER_BLUE = "assets/Images/Sprites/Lasers/laserBlue01.png";
 
-    public static final String BIG_ASTEROID_SPRITE = "Images/Sprites/Meteors/meteorBrown_big1.png";
-    public static final String MEDIUM_ASTEROID_SPRITE = "Images/Sprites/Meteors/meteorBrown_med1.png";
-    public static final String SMALL_ASTEROID_SPRITE = "Images/Sprites/Meteors/meteorBrown_small2.png";
+    public static final String BIG_ASTEROID_SPRITE = "assets/Images/Sprites/Meteors/meteorBrown_big1.png";
+    public static final String MEDIUM_ASTEROID_SPRITE = "assets/Images/Sprites/Meteors/meteorBrown_med1.png";
+    public static final String SMALL_ASTEROID_SPRITE = "assets/Images/Sprites/Meteors/meteorBrown_small2.png";
 }

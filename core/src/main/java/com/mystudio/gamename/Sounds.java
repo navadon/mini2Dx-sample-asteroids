@@ -20,9 +20,9 @@ import org.mini2Dx.core.Mdx;
 import org.mini2Dx.core.audio.Sound;
 
 public class Sounds {
-    private static final String DEATH_SFX = "Sounds/SoundEffects/Death.wav";
-    private static final String SHOOT_SFX = "Sounds/SoundEffects/Laser_Shoot.wav";
-    private static final String EXPLODE_SFX = "Sounds/SoundEffects/Explosion.wav";
+    private static final String DEATH_SFX = "assets/Sounds/SoundEffects/Death.wav";
+    private static final String SHOOT_SFX = "assets/Sounds/SoundEffects/Laser_Shoot.wav";
+    private static final String EXPLODE_SFX = "assets/Sounds/SoundEffects/Explosion.wav";
 
     public Sound death;
     public Sound explode;
